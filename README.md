@@ -14,6 +14,13 @@
 ### Technologies I'm Learning
 - Python
 - SQL
+
+- ## 🛠️ Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-Learning-blue?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Learning-orange?logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Learning-red?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Projects-black?logo=github&logoColor=white)
 - Git & GitHub
 - AI and Automation
 
