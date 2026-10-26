@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Yawar Bashir 👋
 
-<!--
-**yawar3978-web/yawar3978-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science & Analytics Student
 
-Here are some ideas to get you started:
+💻 Learning Python, SQL, and Data Science  
+🤖 Exploring AI and Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- 📊 Interested in Data Science and Analytics.
+- 🐍 Learning Python and SQL.
+- ⚙️ Exploring AI and workflow automation.
+- 🚀 Building projects and improving my skills.
+
+### Technologies I'm Learning
+- Python
+- SQL
+- Git & GitHub
+- AI and Automation
+
+### My Goals
+- Build practical projects.
+- Solve real-world problems.
+- Grow as a Data Science and Automation developer.
+
+---
+*Learning, building, and improving every day.* 🚀
